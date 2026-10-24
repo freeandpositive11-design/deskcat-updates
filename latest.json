@@ -1,6 +1,6 @@
 {
-  "version": "0.4.4",
-  "file": "releases/desk-cat-update-0.4.4.zip",
-  "size": 22442446,
-  "notes": "Mac vidí okná (dá sa položiť na okno, vylezie naň aj po prednej strane); spiaca mačka sa pri prenášaní ani pri kliknutí inde nezobudí; pradenie pri hladkaní; aktualizácie cez internet."
+  "version": "0.4.5",
+  "file": "releases/desk-cat-update-0.4.5.zip",
+  "size": 22447265,
+  "notes": "Režimy: Spontánna / Ide tam, kam klikneš / Naháňa kurzor (aj v menu v lište). Mačka si sama vyberá, kde bude spať. Oprava preblikávania pri chôdzi a prestrelenia pri krátkom behu."
 }
