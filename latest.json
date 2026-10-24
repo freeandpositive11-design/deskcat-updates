@@ -1,6 +1,6 @@
 {
-  "version": "0.4.5",
-  "file": "releases/desk-cat-update-0.4.5.zip",
-  "size": 22447265,
-  "notes": "Režimy: Spontánna / Ide tam, kam klikneš / Naháňa kurzor (aj v menu v lište). Mačka si sama vyberá, kde bude spať. Oprava preblikávania pri chôdzi a prestrelenia pri krátkom behu."
+  "version": "0.4.6",
+  "file": "releases/desk-cat-update-0.4.6.zip",
+  "size": 22448891,
+  "notes": "Opravené Pohladkať a Choď spať v menu mačky (v každom režime). Keď leží na chrbáte, nedá sa ťahať – hladkáš ju ťukaním alebo pohybom zo strany na stranu."
 }
