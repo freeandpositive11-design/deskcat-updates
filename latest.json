@@ -1,6 +1,6 @@
 {
-  "version": "0.4.6",
-  "file": "releases/desk-cat-update-0.4.6.zip",
-  "size": 22448891,
-  "notes": "Opravené Pohladkať a Choď spať v menu mačky (v každom režime). Keď leží na chrbáte, nedá sa ťahať – hladkáš ju ťukaním alebo pohybom zo strany na stranu."
+  "version": "0.4.7",
+  "file": "releases/desk-cat-update-0.4.7.zip",
+  "size": 22449394,
+  "notes": "Mačka už nikdy nespadne pod obrazovku: keď ju pustíš nad oknom, vyskočí naň alebo zoskočí na zem; keby sa niekam stratila, sama sa vráti. Na okne, ktoré nesiaha dole, ostane ležať."
 }
